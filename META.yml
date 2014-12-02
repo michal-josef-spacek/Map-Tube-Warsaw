@@ -22,6 +22,7 @@ meta-spec:
 name: Map-Tube-Warsaw
 no_index:
   directory:
+    - examples
     - inc
     - share
     - t
