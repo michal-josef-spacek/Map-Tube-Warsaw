@@ -1,0 +1,50 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.70.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 b3f2a639576ec81405412b509e508fb49aed4e8f Changes
+SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
+SHA1 62ea8161d1cc7e68c6aa5a240b42a571037b8c51 LICENSE.bsd
+SHA1 9ceffa9d56fcb07606a85c8f542d7cc6591e1acf MANIFEST
+SHA1 32a6c33dbf02a697b0d5044fd3a8edab88e992da META.yml
+SHA1 e08c893a72999fe00ac92b1a2440d35c70ea6cb1 Makefile.PL
+SHA1 80540ca96bd08d65fd3694df770089dafac9ac0f README
+SHA1 2cacae5b76965b2dce531d4d29e89b24ffc015a5 Warsaw.pm
+SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
+SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
+SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
+SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
+SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
+SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
+SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
+SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 a466b1d688632a2d6fda31c8542f9133eee80bf4 share/warsaw-map.xml
+SHA1 57803b66b7a12d3cc78a7d6e3238529eae62b3d1 t/Map-Tube-Warsaw/00-use.t
+SHA1 f512e3a827b33c85ecd7e0eda8ef5f698424b078 t/Map-Tube-Warsaw/01-version.t
+SHA1 da621315fbda63dcf36b8de026660bf7eaa22405 t/Map-Tube-Warsaw/02-pod_coverage.t
+SHA1 e80d541ceefaddbbbdc8837c2300f4e7d3d1159d t/Map-Tube-Warsaw/03-pod.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJUfXcUAAoJEAwa+cf4dLBa62YH/15BqxeH9bokV1QvztFAEqVD
+uqDvoZphoHWJUufaWtSSHKY7gVjS6D9tIVrEWBgGvp12bZmJnCRbPogne+q21jVE
+qX5nLr2uL3vaNTqX8yz5Sr546sBCMVG9/GVobRl8KK7BTlPxUQOodbFzANXY4sNf
+W2XmVOPCHb7p4fao7SEyhQmEHaAq56p3CMObnsBErvDNeGIAJYbHPvhmgCXxCT7n
+c4POuvDf5UpTs0GmUEZMqXHeMYOxtphSxZLIl4K6hsYF64J16wVYI0qWaENDIilU
+IBKzpedbzjWqscNC1vyKCiPuCGOYqBCN4h9Umx2P1L9eWUXf6K7qs0CFoZQjZLM=
+=ojff
+-----END PGP SIGNATURE-----
