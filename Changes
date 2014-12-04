@@ -1,6 +1,7 @@
 0.02
  - Add Map::Tube::Berlin and Map::Tube::Minsk to SEE ALSO section in doc.
  - Add examples/ directory.
+ - Add some tests.
  - Fix EXAMPLE1 section in doc.
  - Improve doc to new 2.30 methods.
 
