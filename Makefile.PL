@@ -14,7 +14,7 @@ license 'artistic_2';
 name 'Map-Tube-Warsaw';
 readme_from 'Warsaw.pm';
 requires 'File::Share' => 0;
-requires 'Map::Tube' => '2.26';
+requires 'Map::Tube' => '2.30';
 requires 'Moo' => 0;
 requires 'namespace::clean' => 0;
 requires 'perl' => '5.8.0';
