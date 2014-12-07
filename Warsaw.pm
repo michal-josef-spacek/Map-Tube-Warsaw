@@ -58,7 +58,7 @@ For more information about Warsaw Map, click L<here|https://en.wikipedia.org/wik
 
  Constructor.
 
-=item C<get_all_routes($from, $to)>
+=item C<get_all_routes($from, $to)> [EXPERIMENTAL]
 
  Get all routes from station to station.
  Returns reference to array with Map::Tube::Route objects.
