@@ -3,6 +3,7 @@
  - Add examples/ directory.
  - Add some tests.
  - Fix EXAMPLE1 section in doc.
+ - Fix get_shortest_route() method description in doc.
  - Improve doc to new 2.30 methods.
 
 0.01 2014-12-02T09:23:39+01:00
