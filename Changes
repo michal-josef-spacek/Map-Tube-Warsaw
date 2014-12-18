@@ -8,6 +8,7 @@
  - Fix REPOSITORY section in doc.
  - Fix get_shortest_route() method description in doc.
  - Improve doc to new 2.30 methods.
+ - Remove executable bit from warsaw-map.xml file.
 
 0.01 2014-12-02T09:23:39+01:00
  - First version
