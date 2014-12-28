@@ -2,6 +2,7 @@
  - Add Map::Tube::Berlin and Map::Tube::Minsk to SEE ALSO section in doc.
  - Add examples/ directory.
  - Add get_lines() method to doc.
+ - Add get_stations() method to doc.
  - Add metro name.
  - Add some tests.
  - Describe get_all_routes() method as EXPERIMENTAL.
