@@ -41,7 +41,7 @@ METHODS
              Returns Map::Tube::Node object.
 
     "get_shortest_route($from, $to)"
-             Get shortest route between $from and $to node names. Node names in $from and $to are case insensitive. 
+             Get shortest route between $from and $to node names. Node names in $from and $to are case insensitive.
              Returns Map::Tube::Route object.
 
     "get_stations($line)"

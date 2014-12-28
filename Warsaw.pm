@@ -83,7 +83,7 @@ For more information about Warsaw Map, click L<here|https://en.wikipedia.org/wik
 
 =item C<get_shortest_route($from, $to)>
 
- Get shortest route between $from and $to node names. Node names in $from and $to are case insensitive. 
+ Get shortest route between $from and $to node names. Node names in $from and $to are case insensitive.
  Returns Map::Tube::Route object.
 
 =item C<get_stations($line)>
