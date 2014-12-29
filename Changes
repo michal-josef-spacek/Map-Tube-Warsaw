@@ -1,4 +1,4 @@
-0.02
+0.02 2014-12-29T10:30:08+01:00
  - Add EXAMPLE3 section to doc.
  - Add Map::Tube::Berlin and Map::Tube::Minsk to SEE ALSO section in doc.
  - Add Map::Tube::GraphViz, Map::Tube::Text::Table, Task::Map::Tube,
