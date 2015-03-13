@@ -173,7 +173,7 @@ For more information about Warsaw Map, click L<here|https://en.wikipedia.org/wik
  system "ls -l Warsaw.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 71382 Dec 28 19:58 Warsaw.png
+ # -rw-r--r-- 1 skim skim 86520 Mar 13 05:03 Warsaw.png
 
 =begin html
 
