@@ -25,7 +25,8 @@ t/Map-Tube-Warsaw/00-use.t
 t/Map-Tube-Warsaw/01-version.t
 t/Map-Tube-Warsaw/02-pod_coverage.t
 t/Map-Tube-Warsaw/03-pod.t
-t/Map-Tube-Warsaw/04-get_shortest_route.t
-t/Map-Tube-Warsaw/05-name.t
-t/Map-Tube-Warsaw/06-xml.t
+t/Map-Tube-Warsaw/04-map.t
+t/Map-Tube-Warsaw/05-get_shortest_route.t
+t/Map-Tube-Warsaw/06-name.t
+t/Map-Tube-Warsaw/07-xml.t
 Warsaw.pm
