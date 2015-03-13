@@ -2,6 +2,7 @@
  - Add <?xml> header to XML document.
  - Add Map::Tube::Plugin::Graph to SEE ALSO section in doc.
  - Add Map::Tube::Graph to SEE ALSO section in doc.
+ - Add lines to XML document.
  - Remove driver from EXAMPLE3 section in doc. neato is default driver.
  - Remove obsolete code from EXAMPLE2 section in doc.
  - Update copyright years to 2015.
