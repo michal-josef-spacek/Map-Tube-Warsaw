@@ -6,6 +6,7 @@
  - Add lines to XML document.
  - Remove driver from EXAMPLE3 section in doc. neato is default driver.
  - Remove obsolete code from EXAMPLE2 section in doc.
+ - Update SEE ALSO section in doc.
  - Update copyright years to 2015.
 
 0.02 2014-12-29T10:30:08+01:00
