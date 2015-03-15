@@ -1,3 +1,5 @@
+0.05
+
 0.04 2015-03-15T23:29:06+01:00
  - Rewrite to new 'other_link' attribute in Map::Tube 2.89.
  - Update examples/ex3.pl file.
