@@ -1,4 +1,4 @@
-0.05
+0.05 2015-10-06T08:45:20+02:00
  - Add EXAMPLE4 to doc.
  - Add get_line_by_id() and get_line_by_name() methods to doc.
  - Add tests for get_node_by_id() and get_node_by_name() methods.
