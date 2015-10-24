@@ -1,5 +1,6 @@
 0.07
  - Add URL for M2 line to XML file.
+ - Rewrite XML map to new version with line IDs.
 
 0.06 2015-10-16T11:59:24+02:00
  - Improve description for get_lines() in doc.
