@@ -3,6 +3,7 @@
  - Add URL for M2 line to XML file.
  - Implement station order.
  - Rewrite XML map to new version with line IDs.
+ - Update Module::Install to 1.18 version.
 
 0.06 2015-10-16T11:59:24+02:00
  - Improve description for get_lines() in doc.
