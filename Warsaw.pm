@@ -304,13 +304,13 @@ L<https://github.com/tupinek/Map-Tube-Warsaw>
 
 =head1 AUTHOR
 
-Michal Špaček L<mailto:skim@cpan.org>
+Michal Josef Špaček L<mailto:skim@cpan.org>
 
 L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2014-2017 Michal Špaček
+ © 2014-2017 Michal Josef Špaček
  Artistic License
  BSD 2-Clause License
 
