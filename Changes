@@ -7,6 +7,7 @@
  - Rewrite XML map to new version with line IDs.
  - Update Module::Install to 1.18 version.
  - Update copyright years to 2017.
+ - Update to Map::Tube 3.41.
 
 0.06 2015-10-16T11:59:24+02:00
  - Improve description for get_lines() in doc.
