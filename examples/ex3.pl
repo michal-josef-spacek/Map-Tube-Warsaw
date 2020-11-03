@@ -23,4 +23,4 @@ $g->graph('Warsaw.png');
 system "ls -l Warsaw.png";
 
 # Output like:
-# -rw-r--r-- 1 skim skim 86466 Mar 15 23:26 Warsaw.png
+# -rw-r--r-- 1 skim skim 90061 lis  3 23:18 Warsaw.png

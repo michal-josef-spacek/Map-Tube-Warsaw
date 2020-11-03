@@ -30,7 +30,10 @@
     <station id="A23" name="Młociny" line="M1:21" link="A22"/>
 
     <!-- https://pl.wikipedia.org/wiki/Linia_M2_metra_w_Warszawie -->
-    <station id="C9" name="Rondo Daszyńskiego" line="M2:9" link="C10"/>
+    <station id="C6" name="Księcia Janusza" line="M2:6" link="C7"/>
+    <station id="C7" name="Młynów" line="M2:7" link="C6,C8"/>
+    <station id="C8" name="Płocka" line="M2:8" link="C7,C9"/>
+    <station id="C9" name="Rondo Daszyńskiego" line="M2:9" link="C8,C10"/>
     <station id="C10" name="Rondo ONZ" line="M2:10" link="C9,C11"/>
     <station id="C11" name="Świętokrzyska" line="M2:11" link="C10,C12" other_link="Tunnel:A14"/>
     <station id="C12" name="Nowy Świat-Uniwersytet" line="M2:12" link="C11,C13"/>
