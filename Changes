@@ -5,6 +5,7 @@
  - Add test for ok_map_functions().
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Implement station order.
+ - Improve LICENSE AND COPYRIGHT section in doc.
  - Rewrite XML map to new version with line IDs.
  - Update Module::Install to 1.19 version.
  - Update author name.
