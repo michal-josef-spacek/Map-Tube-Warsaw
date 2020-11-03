@@ -180,8 +180,8 @@ For more information about Warsaw Map, click L<here|https://en.wikipedia.org/wik
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Warsaw/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Warsaw/master/images/ex3.png" alt="Metro w Warszawie" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Warsaw/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Warsaw/master/images/ex3.png" alt="Metro w Warszawie" width="300px" height="300px" />
 </a>
 
 =end html
@@ -287,7 +287,7 @@ Install the Map::Tube concrete metro modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Map-Tube-Warsaw>
+L<https://github.com/michal-josef-spacek/Map-Tube-Warsaw>
 
 =head1 AUTHOR
 

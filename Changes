@@ -8,6 +8,7 @@
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Rewrite XML map to new version with line IDs.
  - Update Module::Install to 1.19 version.
+ - Update author github username.
  - Update author name.
  - Update copyright years to 2020.
  - Update to Map::Tube 3.41.
