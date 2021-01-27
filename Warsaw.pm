@@ -33,6 +33,7 @@ Map::Tube::Warsaw - Interface to the Warsaw Tube Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Warsaw;
+
  my $obj = Map::Tube::Warsaw->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
