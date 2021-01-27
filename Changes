@@ -1,6 +1,7 @@
 0.08
  - Fix bugtracker.
  - Improve SYNOPSIS section in doc.
+ - Rewrite doc to use =head2 in METHODS section.
  - Update copyright years.
 
 0.07 2020-11-03T23:23:41+01:00
