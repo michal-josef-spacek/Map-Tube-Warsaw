@@ -69,7 +69,7 @@ Returns instance of object.
 
 Get all routes from station to station.
 
-Returns reference to array with Map::Tube::Route objects.
+Returns reference to array with L<Map::Tube::Route> objects.
 
 =head2 C<get_line_by_id>
 
@@ -77,7 +77,7 @@ Returns reference to array with Map::Tube::Route objects.
 
 Get line object defined by id.
 
-Returns Map::Tube::Line object.
+Returns L<Map::Tube::Line> object.
 
 =head2 C<get_line_by_name>
 
@@ -85,7 +85,7 @@ Returns Map::Tube::Line object.
 
 Get line object defined by name.
 
-Returns Map::Tube::Line object.
+Returns L<Map::Tube::Line> object.
 
 =head2 C<get_lines>
 
@@ -93,7 +93,7 @@ Returns Map::Tube::Line object.
 
 Get lines in metro map.
 
-Returns reference to unsorted array with Map::Tube::Line objects.
+Returns reference to unsorted array with L<Map::Tube::Line> objects.
 
 =head2 C<get_node_by_id>
 
@@ -101,7 +101,7 @@ Returns reference to unsorted array with Map::Tube::Line objects.
 
 Get station node by id.
 
-Returns Map::Tube::Node object.
+Returns L<Map::Tube::Node> object.
 
 =head2 C<get_node_by_name>
 
@@ -109,13 +109,13 @@ Returns Map::Tube::Node object.
 
 Get station node by name.
 
-Returns Map::Tube::Node object.
+Returns L<Map::Tube::Node> object.
 
 =head2 C<get_shortest_route>
 
  my $route = $obj->get_shortest_route($from, $to);
 
-Get shortest route between $from and $to node names. Node names in $from and $to are case insensitive.
+Get shortest route between C<$from> and C<$to> node names. Node names in C<$from> and C<$to> are case insensitive.
 
 Returns Map::Tube::Route object.
 
@@ -125,7 +125,7 @@ Returns Map::Tube::Route object.
 
 Get list of stations for concrete metro line.
 
-Returns reference to array with Map::Tube::Node objects.
+Returns reference to array with L<Map::Tube::Node> objects.
 
 =head2 C<name>
 
