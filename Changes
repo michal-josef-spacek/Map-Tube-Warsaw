@@ -1,6 +1,7 @@
 0.09
  - Add links to doc.
  - Fix stations on multiple lines (GH#2).
+ - Rename EXAMPLE3 image.
  - Update Map::Tube dependency to 3.62.
  - Update Module::Install to 1.21 version.
  - Update copyright years.
