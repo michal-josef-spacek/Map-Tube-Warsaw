@@ -1,5 +1,6 @@
 0.09
  - Add links to doc.
+ - Fix stations on multiple lines (GH#2).
  - Update Module::Install to 1.21 version.
 
 0.08 2021-01-27T01:34:51+01:00
